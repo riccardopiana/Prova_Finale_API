@@ -36,7 +36,7 @@ Per eseguire i test bisogna:
 
 | Descrizione         | Strumento                                  |
 |---------------------|--------------------------------------------|
-| IDE                 | [VSCode](https://www.jetbrains.com/clion/)  |
+| IDE                 | [VSCode](https://code.visualstudio.com/)  |
 | Compilatore        | [gcc](https://gcc.gnu.org/)                |
 | Misurazione memoria | [Valgrind - Massif](https://valgrind.org/) |
 | Sistema operativo   | Windows 11                     |
